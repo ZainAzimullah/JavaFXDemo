@@ -1,4 +1,6 @@
 # JavaFXDemo
+Video is here:
+https://youtu.be/4_WmGBO6AIQ
 (Just a simple quick demo for Part II students)
 
 # Download, Build and Run
