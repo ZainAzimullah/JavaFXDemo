@@ -9,4 +9,4 @@ or open as a file, select the option which opens it as a project.
 Gradle will then automatically set things up.  Allow this to happen and then run the main method
 in BigPicture.java.
 
-The UML is also available in this repo (JavaFX.pdf)
+The UML is also available in this repo (javafx.pdf)
